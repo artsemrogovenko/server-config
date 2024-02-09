@@ -1,3 +1,13 @@
+spring:
+  cloud:
+    openfeign:
+      client:
+        config:
+          payment:
+            url: http://localhost:8765/payment
+          storage:
+            url: http://localhost:8765/storage
+
 api:
   basic-uri:
     storage: http://localhost:8765/storage/
