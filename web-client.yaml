@@ -1,0 +1,8 @@
+api:
+  basic-uri:
+    storage: http://localhost:8765/storage/
+    payment: http://localhost:8765/payment/
+
+shop:
+  account:
+    number: 3
