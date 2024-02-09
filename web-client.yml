@@ -6,3 +6,5 @@ api:
 shop:
   account:
     number: 3
+
+tmpVar: configServer
