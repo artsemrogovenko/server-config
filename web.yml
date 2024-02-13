@@ -13,7 +13,7 @@ api:
     storage: http://localhost:8765/storage/
     transfer: http://localhost:8765/transfer/
 
-shop:
+desk:
   account:
     id: 1
 
